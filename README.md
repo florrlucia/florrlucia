@@ -1,5 +1,4 @@
-1,286 (1).jpg
-
+![Image text](https://github.com/florrlucia/florrlucia/blob/8639b3e436164f258a063c56e61706c1d4164790/1%2C286%20(1).jpg)
 # 💫 About Me:
 Hello! my name is Flor<br>I am in the first year of Programming.<br>I also study Marketing and Digital Advertising.<br>You can contact me through my social networks or my email
 
