@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAFvyBgxyQs/A1mEsta6jx0d9Nee54aTPA/view?website#2
+
 
 # 💫 About Me:
 Hello! my name is Flor<br>I am in the first year of Programming.<br>I also study Marketing and Digital Advertising.<br>You can contact me through my social networks or my email
